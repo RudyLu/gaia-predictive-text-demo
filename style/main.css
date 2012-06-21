@@ -1,0 +1,23 @@
+#main-input {
+    font-size: 130%;
+    height: 10em;
+    width: 80%;
+    color: #666;
+}
+
+#user-input {
+    font-size: 120%;
+    color: #555;
+    visibility: hidden;
+}
+
+#suggestion-label {
+    display:inline-block;
+    margin-top: 2em;
+}
+
+#word-suggestions {
+    font-size: 120%;
+    color: blue;
+}
+
